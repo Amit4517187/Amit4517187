@@ -1,3 +1,4 @@
+[![MedVerify](https://github-readme-stats-lime-beta-51.vercel.app/api/pin/?username=Amit4517187&repo=med-verify-authenticator&theme=tokyonight)](https://github.com/Amit4517187/med-verify-authenticator)
 ## Hi there 👋
 
 # 💫 About Me:
