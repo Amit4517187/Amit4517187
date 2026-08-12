@@ -14,7 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amit4517187&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit4517187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![MedVerify](https://github-readme-stats-lime-beta-51.vercel.app/api/pin/?username=Amit4517187&repo=med-verify-authenticator&theme=tokyonight)](https://github.com/Amit4517187/med-verify-authenticator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amit4517187&repo=credit-engine&theme=tokyonight)](https://github.com/Amit4517187/credit-engine)
 [![Credit Engine](https://github-readme-stats.vercel.app/api/pin/?username=Amit4517187&repo=credit-engine&theme=tokyonight)](https://github.com/Amit4517187/credit-engine)
 
 ## 🏆 GitHub Trophies
